@@ -50,4 +50,19 @@ name=petName;
     System.out.printIn(month + day + year)
 }
 
-23.
+23. The names appear different in both body and header
+
+24. "Give me the balance"
+
+25. If one is changed the other does not need to be.
+
+26. look at the code
+
+27.it says not a statement
+
+28.one is void other is int
+
+29. for InsertMoney it doesnt have a return statement because insertmoney hases getbalance
+and PrintTicket prints it onto the terminal.
+
+31. 
