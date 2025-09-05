@@ -107,3 +107,7 @@ public void setAlive(boolean alive) {
 
 41. They have seperate prices each one being objects
 
+42. Seperate prices , each objects run seperate stuff.
+
+43. It should be identical however %d inserts the next arguement as a ineger and %n finishes end the line
+
