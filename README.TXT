@@ -97,5 +97,13 @@ public void setAlive(boolean alive) {
 
 36. It returns to 0
 
-37.
+37."My cat has green eyes"
+
+38. Provided in source code
+
+39. Price would be printed instead of the variable of price.
+
+40. It would print ("# price cents.");
+
+41. They have seperate prices each one being objects
 
