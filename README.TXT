@@ -65,4 +65,37 @@ name=petName;
 29. for InsertMoney it doesnt have a return statement because insertmoney hases getbalance
 and PrintTicket prints it onto the terminal.
 
-31. 
+31. /**
+    * Increase score by the given number of points.
+    */
+    public void increaseScore(int points)
+    {
+    score = score + points;
+    }
+
+32. It is a mutator,how you show it is printing it beforehand and after.
+
+33. 
+/**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+    price = price - amount;
+}
+
+34. 
+public void setAge(int currentAge)
+{
+    age = currentAge
+}
+
+35. 
+public void setAlive(boolean alive) {
+    this.alive = alive;
+}
+
+36. It returns to 0
+
+37.
+
