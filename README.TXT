@@ -14,8 +14,7 @@ as long as its above 0.
 10. the fields are price, balance and total. The constructor is public TicketMachine.
 Lastly methods being public int getPrice and public int getBalance
 
-11. The box around the constructors appear yellow and the constructors always start with public
-but never have class afer public.
+11. there is no type in a constructer and it has to matcht the class name
 
 12. private int count; is an integer
     private student rep; is a string
@@ -27,7 +26,28 @@ but never have class afer public.
     
 14. 
 
-15. yes is does matter
- 
+15. No it does not matter all is saysi is the identifier is expected.  
+    The appearance does change when modified it helps when finding the correct order.
 
+16. Yes it is necessary to put a semi colon.
 
+17. private int status;
+    
+18. yes, It is apart of student.
+
+19. It has two, String title and double price.
+
+20. Yes they do need to be stored, yes you can guess some and we cant know for sure the names but 
+we can guess.
+
+21. public pet (String petName)
+{
+name=petName;
+}
+
+22. public date(String month, int day, int year)
+{
+    System.out.printIn(month + day + year)
+}
+
+23.
