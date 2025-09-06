@@ -24,7 +24,7 @@ Lastly methods being public int getPrice and public int getBalance
     private Person tutor; tutor
     private Game game; is game
     
-14. 
+14. TicketMachine is a class
 
 15. No it does not matter all is saysi is the identifier is expected.  
     The appearance does change when modified it helps when finding the correct order.
