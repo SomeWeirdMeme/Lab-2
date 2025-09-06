@@ -29,7 +29,19 @@ public class TicketMachine
         balance = 0;
         total = 0;
     }
-
+    
+    /**
+     * Create a machine that issues tickets of the given price.
+     * Not that the price must be greater than zero, and there
+     * are no checks to ensure this.
+     */
+    public TicketMachine()
+    {
+        price = 1000;
+        balance = 0;
+        total = 0;
+    }
+    
     /**
      * Return the price of a ticket.
      */
@@ -37,11 +49,20 @@ public class TicketMachine
     {
         return price;
     }
-
+    
+    /**
+     * Remove all the money stored in TicketMachine.
+     */
+    public void Empty()
+    {
+        total = 0;
+    }
+    
     /**
      * Return the amount of money already inserted for the
      * next ticket.
      */
+    
     public int getAmount()
     {
         return balance;

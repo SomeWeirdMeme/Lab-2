@@ -111,3 +111,10 @@ public void setAlive(boolean alive) {
 
 43. It should be identical however %d inserts the next arguement as a ineger and %n finishes end the line
 
+44. When I run it and create an object it doesnt give an option to put the price of a ticket.
+
+46. No it doesnt need to take parameters because it always resets the same field to 0.
+The empty method is a mutator because it changes the state of (total)
+
+
+
